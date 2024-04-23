@@ -44,6 +44,7 @@ flutter run
 ### Home page:
 
 <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/74b6e9b9-345d-4d9d-8648-1405b4df3bdb"  width="300">
+</p>
 
 ### Search page:
 
@@ -60,4 +61,3 @@ flutter run
 ### Profile:
 
 <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/5810f3f3-e1b6-4162-a5dd-9b67d7f13c6c"  width="300">
-</p>
