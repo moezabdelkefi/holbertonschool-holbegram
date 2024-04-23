@@ -34,4 +34,4 @@ flutter run
 ## Screenshots:
 ### Loging page:
 
-![Screenshot](screenshot/Screenshot1.png)
+![Screenshot_1713877793](https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/bef674e5-8ea0-4926-a780-9634af2dce8d)
