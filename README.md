@@ -34,4 +34,4 @@ flutter run
 ## Screenshots:
 ### Loging page:
 
-![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/Screenshot1.png)
