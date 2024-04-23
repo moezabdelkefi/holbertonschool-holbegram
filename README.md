@@ -1,5 +1,3 @@
-![Screenshot_1713878432](https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/60d2f1a8-b5e6-4686-9c80-972527cce8fe)# Holbegram
-
 Holbegram is a Flutter app project developed as part of the curriculum at Holberton School. It serves as an imitation of Instagram, featuring key functionalities such as user authentication using Firebase, a home feed, profile view, and search options.
 
 ## Features
