@@ -32,6 +32,7 @@ flutter run
 
 
 ## Screenshots:
+<p align="center">
 ### Loging page:
 
 <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/bef674e5-8ea0-4926-a780-9634af2dce8d" width="300">
@@ -59,9 +60,4 @@ flutter run
 ### Profile:
 
 <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/5810f3f3-e1b6-4162-a5dd-9b67d7f13c6c"  width="300">
-
-<p align="center">
-  <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/74b6e9b9-345d-4d9d-8648-1405b4df3bdb" width="300">
-  <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/655933a3-83b8-4ce3-8d11-4bd000385ea7" width="300">
-  <img src="https://github.com/moezabdelkefi/holbertonschool-holbegram/assets/113900578/9e40214d-502d-41cc-84c5-fdf1cf59cdd4" width="300">
 </p>
